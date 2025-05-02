@@ -27,3 +27,9 @@ Authentication: Firebase Authentication
 Database: Firebase Firestore (for storing user data)
 
 APIs: The Movie Database (TMDB) API for fetching movie and TV show data
+
+Screenshots
+
+![login page](src/screenshots/login_page.png)
+
+![home page](src/screenshots/Home_page.png)
