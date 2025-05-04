@@ -26,15 +26,15 @@ This project was built using React and Firebase, following a YouTube tutorial. I
 
 ✅ Responsive design for desktop and mobile
 
-🧰 Tech Stack
+💻 Tech Stack
 
-React
+⚛️ React – For building the UI
 
-HTML & CSS
+🧾 HTML & CSS – For layout and styling
 
-Firebase
+🔥 Firebase – For authentication and hosting
 
-TMDB API
+🎞️ TMDB API – For movie and TV show data
 
 Screenshots
 
