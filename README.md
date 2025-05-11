@@ -32,7 +32,7 @@ This project was built using React and Firebase, following a YouTube tutorial. I
 
 🧾 HTML & CSS – For layout and styling
 
-🔥 Firebase – For authentication and hosting
+🔥 Firebase – For authentication 
 
 🎞️ TMDB API – For movie and TV show data
 
